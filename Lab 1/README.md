@@ -38,6 +38,12 @@ This service uses CORS to handle requests coming from the front end. It also res
 
 **1.What is the service responsible for?**
 
+This is responsible for the website that the user interacts with to place orders from.
+
 **2.Which language/framework does it use?**
 
+It uses Node.js and Vue.js
+
 **3.How does it interact with the other services?**
+
+This uses html to display the page to the users. There is a script for the interactions with fetch methods to fetch the products from the product service and a method to submit an order, where it uses a POST request to the order service.
