@@ -22,11 +22,17 @@
 
 ### Product Service
 
-**-What is the service responsible for?**
-   
+**1.What is the service responsible for?**
+
+-This serviced is responsible for showing the catalog of products, which is a list of products that is fetched using a RESTful API.
+
 **-Which language/framework does it use?**
 
+-It uses Rust and Cargo.
+  
 **-How does it interact with the other services?**
+
+-This service uses CORS to handle requests coming from the front end. It also restricts the allowed methods, only GET methods are allowed in this case. When a GET request is made for the products, the server will return a JSON array of products which are objects. This server will listen for any incoming requests and route them to the products.
 
 ### Store Front
 
