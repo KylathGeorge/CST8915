@@ -4,7 +4,9 @@
 
 ## Student Number: 041198835
 
-### Youtube Link:-
+### Youtube Link
+
+[Lab 1 Youtube Link](https://www.youtube.com/watch?v=MrTI1IYrWBk)
 
 ### Order Service
 
