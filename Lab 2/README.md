@@ -24,7 +24,7 @@ With order-srevice the code was changed from using hardcoded variables to using 
 
 <ins>Backing Services</ins>
 
-RabbitMQ is treated as an attached resource. This is true because the variables required to connect to it are stored in the .env files and we could at any time change these environment variables to swap out RabbitMQ for another similar system without any changes to the code because the code fetches the required variables from the .env file.
+RabbitMQ is treated as an attached resource. This is true because the variables required to connect to it are stored in the .env files for the services and we could at any time change these environment variables to swap out RabbitMQ for another similar system without any changes to the code because the code fetches the required variables from the .env file.
 
 **2. Why is it important to use environment variables instead of hard-coding configurations in your application?**
 
