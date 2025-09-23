@@ -8,6 +8,12 @@
 
 [Lab 2 Youtube Link](https://www.youtube.com/watch?v=1x_jV4dPfak)
 
+Order Service Repository: <https://github.com/KylathGeorge/order-service>
+
+Product Service Repository: <https://github.com/KylathGeorge/product-service>
+
+Store Front Repository: <https://github.com/KylathGeorge/store-front>
+
 ### Reflection Questions
 
 1. What changes did you make to the order-service and product-service to comply with the Configurations and Backing Services factors of the 12-Factor App methodology?
