@@ -10,7 +10,9 @@
 
 Order Service Repository: <https://github.com/KylathGeorge/order-service>
 
-Product Service Repository: <https://github.com/KylathGeorge/product-service-python>
+Product Service Repository used in Lab 2: <https://github.com/KylathGeorge/product-service>
+
+Product Service Repository(used in this lab): <https://github.com/KylathGeorge/product-service-python>
 
 Store Front Repository: <https://github.com/KylathGeorge/store-front>
 
