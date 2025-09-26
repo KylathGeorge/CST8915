@@ -6,9 +6,4 @@
 
 ### Youtube Link
 
-[Lab 2 Youtube Link](https://www.youtube.com/watch?v=1x_jV4dPfak)
-
-### Policy Error with creating static web app
-
-![alt text](image.png)
-
+[Lab 3 Youtube Link](https://www.youtube.com/watch?v=9S035f52u4Y)
