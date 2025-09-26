@@ -8,6 +8,12 @@
 
 [Lab 3 Youtube Link](https://www.youtube.com/watch?v=9S035f52u4Y)
 
+Order Service Repository: <https://github.com/KylathGeorge/order-service>
+
+Product Service Repository: <https://github.com/KylathGeorge/product-service-python>
+
+Store Front Repository: <https://github.com/KylathGeorge/store-front>
+
 ### Reflection Questions
 
 **1. What challenges did you encounter when configuring environment variables in the GitHub Actions workflow?**
