@@ -18,4 +18,6 @@ There was another issue in where I learned that flask apps in python may have tr
 
 **2. How does deploying microservices on Azure Web App Service differ from running them locally?**
 
+Using Azure Web App services comes with ease of use to build the microservice and deploy it. It automatically integrates the workflow into your github repository if using one and deploys your app. There is continuous deployment, meaning once you commit and push your changes to your github repository, the workflow is automatically rebuilt and deployed. A default domain is provided for your web app by Azure Web App services as well to use. Environment variables are very easy to include without having to configure a .env file.
+
 **3.Why is it important to use environment variables for configurations in a cloud environment?**
